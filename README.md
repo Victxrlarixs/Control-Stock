@@ -1,7 +1,8 @@
 # Control-Stock
 _ _ _
 ```
-Control of inventory programmed with java and establishing a connection to a database "mariaDB" with graphic interface.
+Control of inventory programmed with java and establishing a connection to a database "mariaDB" 
+... with graphic interface.
 ```
 ##  Content
 * Java Files 
