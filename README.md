@@ -11,6 +11,7 @@ Control of inventory programmed with java and establishing a connection to a dat
   * frmprobar.java
   * ingresoproductor.form
   * ingresoproductos.java
+  
 * SQL Files
   * productos.sql
 _  _ _
