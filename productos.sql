@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `productos` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
--- Volcado de datos para la tabla `productos`
+-- Volcado de los datos para la tabla `productos`
 --
 
 INSERT INTO `productos` (`codpro`, `despro`, `prepro`) VALUES
