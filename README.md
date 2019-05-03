@@ -6,6 +6,7 @@ _ _ _
 _ _ _
 ## Notes
 > Control of inventory programmed with java and establishing a connection to a database "mariaDB" with graphic interface.
+_  _ _
 
 
 
@@ -20,4 +21,3 @@ _ _ _
   
 * SQL Files
   * productos.sql
-_  _ _
